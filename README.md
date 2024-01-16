@@ -1,5 +1,3 @@
 # todoey_flutter
 
-A new Flutter project.
-
-A todolist app to keep track of all your tasks.
+Creating a fresh Flutter project that involves the creation of a task management application designed to help users organize and monitor their to-do lists.
